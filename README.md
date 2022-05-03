@@ -1,6 +1,4 @@
-# IAMA Files Preprocessing
-
-This files describes the workflow for preprocessing of files before they are ingested into Watson Explorer.
+# OCR Pipeline
 
 ## Environment preparation
 
